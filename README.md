@@ -2,8 +2,6 @@
 
 An assignment related to mostly frontend with data visualization and integration in map, chart and bubbles.
 
-<img width="959" alt="wasser" src="https://user-images.githubusercontent.com/108893444/222056706-f3a2ae90-f1eb-4686-bcfe-26e857dd8fb1.png">
-
 ## Tech Stack
 
 Used React.js, Module css, Material UI.
