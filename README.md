@@ -28,6 +28,8 @@ npm run build
 
 ## Video Explanation
 
+https://drive.google.com/file/d/1bzs2kQ7RoYMzidyQqNFsOFb7DNJDHBmQ/view?usp=share_link
+
 ## Deployment
 
 https://celebrated-empanada-e05363.netlify.app/
